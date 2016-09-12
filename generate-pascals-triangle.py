@@ -24,7 +24,7 @@ def pascals_triangle(rows):
         for element in range(count + 1): 
             # putting this in a list doesn't do anything.
             # [pascals_tri_formula.append(combination(count, element))]
-            row.append((combination(count, element))%5)  ## Change 5 to whatever mod you are interested
+            row.append((combination(count, element))%5)  ## Change 5 to whatever mod you are interested/ remove it 
         result.append(row)
         # count += 1 # avoidable
     return result
