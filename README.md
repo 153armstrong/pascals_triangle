@@ -13,7 +13,7 @@
 ## mod 5 
 <br>
 
-![Alt text](http://i.imgur.com/uzmoBPO.png?1 "mod 7")
+![Alt text](http://i.imgur.com/uzmoBPO.png?2 "mod 7")
 <br>
 ## mod 7 
 <br>
